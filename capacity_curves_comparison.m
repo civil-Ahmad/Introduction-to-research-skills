@@ -14,7 +14,7 @@ types = {'M5_L_FF_MMM','M5_L_FF_NS_InterPiers_L2100toL2720'}
 
 % we plot the idealized capacity curves on function of
 % the average parameters of Sdy, Sdu, Ty which are respectively
-% maximum elastic displacement, ultimate and 
+% the yielding displacement, the ultimate displacement and the structural period
 hold on
 for i = 1:length(types)
 
